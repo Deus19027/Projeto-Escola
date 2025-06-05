@@ -51,6 +51,3 @@ O sistema já vem com alguns produtos cadastrados para teste:
 - Samsung Galaxy S21
 - Headphone Sony WH-1000XM4
 
-## Contribuição
-
-Sinta-se à vontade para contribuir com o projeto através de pull requests.
