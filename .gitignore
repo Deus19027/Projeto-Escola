@@ -1,0 +1,69 @@
+# Arquivos e pastas específicos do .NET
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Arquivos de build
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+msbuild.log
+msbuild.err
+msbuild.wrn
+
+# Visual Studio
+.vs/
+.vscode/
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.svclog
+*.scc
+*.psess
+*.vsp
+*.vspx
+*.sap
+
+# Arquivos de IDE
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+.idea/
+*.swp
+*.*~
+project.lock.json
+.project
+.DS_Store
+
+# Arquivos temporários
+[Tt]emp/
+[Tt]mp/
+*.tmp
+*.temp
+*.log
+
+# Pacotes NuGet
+*.nupkg
+# Pasta de pacotes NuGet
+**/packages/*
+# exceto build/, que é usado como um destino MSBuild.
+!**/packages/build/
+# Descomente se necessário, mas geralmente esses arquivos são gerados novamente pelo VS
+#!**/packages/repositories.config
+
+# Outros
+*.cache
+*.bak
+Thumbs.db 
